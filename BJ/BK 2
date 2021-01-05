@@ -1,0 +1,11 @@
+N = int(input())
+
+if 1 <= N <= 1000000 :
+    nums = list(map(int, input().split()))
+    print('{} {}'.format(min(nums), max(nums)))
+
+
+
+
+
+
