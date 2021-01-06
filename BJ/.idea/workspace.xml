@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e97d6ae9-4e0f-41af-9e5b-b552413c96f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BK 2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BK1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BK3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BK4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BK5.PY" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BK6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BK7.PY" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BK8.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/함수/BK1.PY" beforeDir="false" afterPath="$PROJECT_DIR$/함수/BK1.PY" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
