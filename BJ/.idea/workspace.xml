@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e97d6ae9-4e0f-41af-9e5b-b552413c96f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BK 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BK1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BK3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BK4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BK5.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BK6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BK7.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BK8.PY" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +39,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.BK8.PY">
-    <configuration name="BK4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BK3.PY">
+    <configuration name="BK2.PY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,11 +48,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/함수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BK4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/함수/BK2.PY" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BK5.PY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BK3.PY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/함수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BK5.PY" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/함수/BK3.PY" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BK3.PY" />
+        <item itemvalue="Python.BK2.PY" />
         <item itemvalue="Python.BK8.PY" />
         <item itemvalue="Python.BK7.PY" />
         <item itemvalue="Python.BK6" />
-        <item itemvalue="Python.BK5.PY" />
-        <item itemvalue="Python.BK4" />
       </list>
     </recent_temporary>
   </component>
@@ -186,22 +193,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="293" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609850660681" />
-    <state width="584" height="163" key="GridCell.Tab.0.bottom" timestamp="1609852868055">
+    <state width="1259" height="165" key="GridCell.Tab.0.bottom" timestamp="1609921252538">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="584" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609852868055" />
-    <state width="584" height="163" key="GridCell.Tab.0.center" timestamp="1609852868055">
+    <state width="1259" height="165" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609921252538" />
+    <state width="1259" height="165" key="GridCell.Tab.0.center" timestamp="1609921252537">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="584" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609852868055" />
-    <state width="584" height="163" key="GridCell.Tab.0.left" timestamp="1609852868055">
+    <state width="1259" height="165" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609921252537" />
+    <state width="1259" height="165" key="GridCell.Tab.0.left" timestamp="1609921252537">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="584" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609852868055" />
-    <state width="584" height="163" key="GridCell.Tab.0.right" timestamp="1609852868055">
+    <state width="1259" height="165" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609921252537" />
+    <state width="1259" height="165" key="GridCell.Tab.0.right" timestamp="1609921252538">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="584" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609852868055" />
+    <state width="1259" height="165" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609921252538" />
     <state width="587" height="201" key="GridCell.Tab.1.bottom" timestamp="1609828158246">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
