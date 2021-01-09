@@ -26,11 +26,4 @@ while i < a:
                 else :
                     mo+=1
                     i+=1
-print (br,'/',mo)
-        
-
-
-
-
-
-
+print (f'{br}/{mo}')
