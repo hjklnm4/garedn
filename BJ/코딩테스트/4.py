@@ -1,2 +1,2 @@
 x = int(input())
-dfssdfsffddsfsd
+print(x)
